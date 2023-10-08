@@ -1,0 +1,4 @@
+1st Page : trywithdb.py ( It is a basic design of these project)
+2nd Page : main.py (It's a Login page. Username - sb Password - ssbb)
+3nd Page : nextpage.py (Main page, these page gives a reminder of both expiried and expiry soon tablet)
+4 th Page : backbutton.py(These page used to order tablet via Company Email easily by cliking the send email button)
